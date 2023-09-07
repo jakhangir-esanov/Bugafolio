@@ -12,8 +12,8 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace FinancialPortfolioManagement.DAL.Migrations
 {
     [DbContext(typeof(AppDbContext))]
-    [Migration("20230826070020_InitialCreate")]
-    partial class InitialCreate
+    [Migration("20230826120314_InitialMigration")]
+    partial class InitialMigration
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
