@@ -54,5 +54,5 @@ For any questions or feedback, please reach out to alibaba.esanov@gmail.com.
 
 # Acknowledgments
 
-We'd like to thank all contributors for their valuable input and support in making FinancialPortfolioManagement a useful application for managing financial data efficiently.
+We'd like to thank all contributors for their valuable input and support in making Bugafolio a useful application for managing financial data efficiently.
 
