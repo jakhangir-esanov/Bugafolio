@@ -23,17 +23,21 @@ information about companies, employees, financial plans, budgets, and expenditur
 
 - **Expenditure Analysis:** Get insights into your company's spending patterns through detailed expenditure reports.
 
-# How to use
+## How to use
 
-1. Clone the repository to your machine.
+1. **Clone the repository:**
 ```
 git clone https://github.com/jakhangir-esanov/FinancialPortfolioManagement
 ```
-2. Open the project in your preferred IDE (Visual Studio, Visual Studio Code, etc.).
-3. Build and run the application.
-4. Follow the on-screen instructions to set up your company's financial data, manage income, and expenses.
+2. **Configure Database:**
+- Update the database connection details in the application settings.
+- Execute database migrations to create the necessary tables.
 
-# Contributing
+3. **Build and Launch:**
+- Build the application using Visual Studio or the .NET CLI.
+- Start the application.
+
+## Contributing
 
 1. Fork the repository
 2. Create new branch for your feature or bugfix:
@@ -43,7 +47,7 @@ git checkout -b feature/my-new-feature
 3. Make your changes, commit them, and push your fork.
 4. Create a Pull Request (PR) to the main repository's main branch, explaining your changes and their purpose.
    
-# Contact
+## Contact
 
 For any questions or feedback, please reach out to alibaba.esanov@gmail.com.
 
