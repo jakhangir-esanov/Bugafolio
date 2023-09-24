@@ -42,11 +42,7 @@ git checkout -b feature/my-new-feature
 ```
 3. Make your changes, commit them, and push your fork.
 4. Create a Pull Request (PR) to the main repository's main branch, explaining your changes and their purpose.
-
-# License
-
-This project is licensed under the MIT License.
-
+   
 # Contact
 
 For any questions or feedback, please reach out to alibaba.esanov@gmail.com.
