@@ -26,18 +26,18 @@ information about companies, employees, financial plans, budgets, and expenditur
 # How to use
 
 1. Clone the repository to your machine.
-``` git clone https://github.com/jakhangir-esanov/FinancialPortfolioManagement ```
-2. Open the project in your preferred IDE (Visual Studio, Visual Studio Code, etc.).
-3. Build and run the application.
-4. Follow the on-screen instructions to set up your company's financial data, manage income, and expenses.
+2. ``` git clone https://github.com/jakhangir-esanov/FinancialPortfolioManagement ```
+3. Open the project in your preferred IDE (Visual Studio, Visual Studio Code, etc.).
+4. Build and run the application.
+5. Follow the on-screen instructions to set up your company's financial data, manage income, and expenses.
 
 # Contributing
 
 1. Fork the repository
 2. Create new branch for your feature or bugfix:
-``` git checkout -b feature/my-new-feature ```
-3. Make your changes, commit them, and push your fork.
-4. Create a Pull Request (PR) to the main repository's main branch, explaining your changes and their purpose.
+3. ``` git checkout -b feature/my-new-feature ```
+4. Make your changes, commit them, and push your fork.
+5. Create a Pull Request (PR) to the main repository's main branch, explaining your changes and their purpose.
 
 # License
 
