@@ -1,5 +1,6 @@
 # About Bugafolio - Financial Portfolio Management
 
+## Overview
 The Financial Portfolio Management project is a comprehensive .NET | C# 
 application designed to help users manage their company's financial data efficiently. 
 This application is specifically tailored to assist in bugalteria, 
