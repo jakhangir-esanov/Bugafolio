@@ -30,7 +30,7 @@ information about companies, employees, financial plans, budgets, and expenditur
 git clone https://github.com/jakhangir-esanov/FinancialPortfolioManagement
 ```
 2. **Configure Database:**
-- Update the database connection details in the application settings.
+- Update the database connection details in the appsetting.json.
 - Execute database migrations to create the necessary tables.
 
 3. **Build and Launch:**
