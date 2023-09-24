@@ -1,4 +1,4 @@
-# Bugafolio
+# About Bugafolio - Financial Portfolio Management
 
 The Financial Portfolio Management project is a comprehensive .NET | C# 
 application designed to help users manage their company's financial data efficiently. 
@@ -7,21 +7,21 @@ which involves tracking and managing income and expenses.
 Additionally, it offers various features to access critical 
 information about companies, employees, financial plans, budgets, and expenditures.
 
-# Key Features
+## Key Features
 
-- Income Management: Track and manage your company's income effortlessly. Input and categorize income sources for better financial insights.
+- **Management:** Track and manage your company's income effortlessly. Input and categorize income sources for better financial insights.
 
-- Expense Management: Keep a close eye on your company's expenses. Log and categorize expenditures to maintain a clear overview of your financial health.
+- **Expense Management:** Keep a close eye on your company's expenses. Log and categorize expenditures to maintain a clear overview of your financial health.
 
-- Company Information: Access detailed information about your company, including its profile, history, and contact details.
+- **Company Information:** Access detailed information about your company, including its profile, history, and contact details.
 
-- Employee Management: Manage employee data, including their roles, salaries, and contact information.
+- **Employee Management:** Manage employee data, including their roles, salaries, and contact information.
 
-- Financial Plans: Create and analyze financial plans to set goals, monitor progress, and make informed financial decisions.
+- **Financial Plans:** Create and analyze financial plans to set goals, monitor progress, and make informed financial decisions.
 
-- Budget Tracking: Set budgets for different aspects of your company and monitor your expenses to ensure you stay within your financial limits.
+- **Budget Tracking:** Set budgets for different aspects of your company and monitor your expenses to ensure you stay within your financial limits.
 
-- Expenditure Analysis: Get insights into your company's spending patterns through detailed expenditure reports.
+- **Expenditure Analysis:** Get insights into your company's spending patterns through detailed expenditure reports.
 
 # How to use
 
