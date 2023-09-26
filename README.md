@@ -52,7 +52,7 @@ git checkout -b feature/my-new-feature
 
 For any questions or feedback, please reach out to alibaba.esanov@gmail.com.
 
-# Acknowledgments
+## Acknowledgments
 
 We'd like to thank all contributors for their valuable input and support in making Bugafolio a useful application for managing financial data efficiently.
 
